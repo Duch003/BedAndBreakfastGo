@@ -10,3 +10,15 @@
 .room-image {
     max-width: 50%;
 }
+
+.red-text {
+    color: red;
+}
+
+.search-form {
+    max-width: 95%;
+}
+
+.datepicker {
+    z-index: 10000;
+}
